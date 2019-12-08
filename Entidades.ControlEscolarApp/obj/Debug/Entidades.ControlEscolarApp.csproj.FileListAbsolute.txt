@@ -1,0 +1,26 @@
+C:\Users\Ulises\source\repos\ControlEscolarApp\Entidades.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\Entidades.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Ulises\source\repos\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.csprojAssemblyReference.cache
+C:\Users\Ulises\source\repos\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.csproj.CoreCompileInputs.cache
+C:\Users\Ulises\source\repos\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\Entidades.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\Entidades.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.csproj.CoreCompileInputs.cache
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\Entidades.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\Entidades.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\Entidades.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\Entidades.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\Entidades.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\Entidades.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\Entidades.ControlEscolarApp\obj\Debug\Entidades.ControlEscolarApp.pdb

@@ -1,0 +1,140 @@
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\bin\Debug\ControlEscolarApp.exe.config
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\bin\Debug\ControlEscolarApp.exe
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\bin\Debug\ControlEscolarApp.pdb
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.pdb
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.csprojAssemblyReference.cache
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Properties.Resources.resources
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.csproj.GenerateResource.cache
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.csproj.CoreCompileInputs.cache
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.csproj.CopyComplete
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.exe
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.pdb
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\bin\Debug\ConexionBd.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\bin\Debug\MySql.Data.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\bin\Debug\ConexionBd.pdb
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.FrmUsuarios.resources
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.UsuariosModal.resources
+C:\Users\Ulises\source\repos\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Principal.resources
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\ControlEscolarApp.exe.config
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\ControlEscolarApp.exe
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\MySql.Data.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Alumnos.resources
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.AlumnosBusq.resources
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.FrmUsuarios.resources
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Principal.resources
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Properties.Resources.resources
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.UsuariosModal.resources
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.csproj.GenerateResource.cache
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.csproj.CoreCompileInputs.cache
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.csproj.CopyComplete
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.exe
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\ControlEscolarApp.exe.config
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\ControlEscolarApp.exe
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\MySql.Data.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Alumnos.resources
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.AlumnosBusq.resources
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Escuela.resources
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.FrmUsuarios.resources
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.MaestrosBusq.resources
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.MaestrosModal.resources
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Principal.resources
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Properties.Resources.resources
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.UsuariosModal.resources
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.csproj.GenerateResource.cache
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.csproj.CopyComplete
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.exe
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.PruebaLogo.resources
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Alumnos.resources
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.AlumnosBusq.resources
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Escuela.resources
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.FrmUsuarios.resources
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.MaestrosBusq.resources
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.MaestrosModal.resources
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Principal.resources
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Properties.Resources.resources
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.UsuariosModal.resources
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.csproj.GenerateResource.cache
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.exe
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\bin\Debug\ControlEscolarApp.exe.config
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\bin\Debug\ControlEscolarApp.exe
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\bin\Debug\ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\bin\Debug\MySql.Data.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\bin\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\bin\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.csproj.CopyComplete
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.LOGO.resources
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\bin\Debug\Extentions.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\ControlEscolarApp\bin\Debug\Extentions.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\ControlEscolarApp.exe.config
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\ControlEscolarApp.exe
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\Extentions.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\MySql.Data.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\Extentions.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\bin\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Alumnos.resources
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.AlumnosBusq.resources
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.CarreasModal.resources
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.CarrerasBusq.resources
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Escuela.resources
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.FrmUsuarios.resources
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Grupos.resources
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.GruposModal.resources
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.LOGO.resources
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.MaestrosBusq.resources
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.MaestrosModal.resources
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Principal.resources
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Properties.Resources.resources
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.Respaldo.resources
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.UsuariosModal.resources
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.csproj.GenerateResource.cache
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.csproj.CopyComplete
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.exe
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ControlEscolarApp\obj\Debug\ControlEscolarApp.pdb

@@ -1,0 +1,32 @@
+C:\Users\Ulises\source\repos\ControlEscolarApp\ConexionBd\bin\Debug\ConexionBd.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\ConexionBd\bin\Debug\ConexionBd.pdb
+C:\Users\Ulises\source\repos\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.csprojAssemblyReference.cache
+C:\Users\Ulises\source\repos\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.csproj.CoreCompileInputs.cache
+C:\Users\Ulises\source\repos\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.csproj.CopyComplete
+C:\Users\Ulises\source\repos\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ConexionBd\bin\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ConexionBd\bin\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.csproj.CoreCompileInputs.cache
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.csproj.CopyComplete
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ConexionBd\bin\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ConexionBd\bin\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.csproj.CopyComplete
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\ControlEscolarApp\ConexionBd\bin\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\ConexionBd\bin\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.csproj.CopyComplete
+C:\Users\Zelma\Desktop\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ConexionBd\bin\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ConexionBd\bin\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.csproj.CopyComplete
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\ConexionBd\obj\Debug\ConexionBd.pdb

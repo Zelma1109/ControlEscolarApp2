@@ -1,0 +1,71 @@
+C:\Users\Ulises\source\repos\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.pdb
+C:\Users\Ulises\source\repos\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Ulises\source\repos\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Ulises\source\repos\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.csprojAssemblyReference.cache
+C:\Users\Ulises\source\repos\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.csproj.CoreCompileInputs.cache
+C:\Users\Ulises\source\repos\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.csproj.CopyComplete
+C:\Users\Ulises\source\repos\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.pdb
+C:\Users\Ulises\source\repos\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\ConexionBd.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\MySql.Data.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\MySql.Data.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.csproj.CoreCompileInputs.cache
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.csproj.CopyComplete
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\MySql.Data.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.csproj.CopyComplete
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\MySql.Data.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.csproj.CopyComplete
+C:\Users\Zelma\Desktop\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\Extentions.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\Extentions.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\LogicaNegocio.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\Extentions.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\MySql.Data.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\Extentions.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\bin\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.csproj.CopyComplete
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\LogicaNegocio.ControlEscolarApp\obj\Debug\LogicaNegocio.ControlEscolarApp.pdb

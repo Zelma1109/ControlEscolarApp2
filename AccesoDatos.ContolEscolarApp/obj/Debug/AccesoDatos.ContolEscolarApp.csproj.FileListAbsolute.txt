@@ -1,0 +1,57 @@
+C:\Users\Ulises\source\repos\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Ulises\source\repos\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Ulises\source\repos\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.csprojAssemblyReference.cache
+C:\Users\Ulises\source\repos\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.csproj.CoreCompileInputs.cache
+C:\Users\Ulises\source\repos\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.csproj.CopyComplete
+C:\Users\Ulises\source\repos\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Ulises\source\repos\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\ConexionBd.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\MySql.Data.dll
+C:\Users\Ulises\source\repos\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\MySql.Data.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.csproj.CoreCompileInputs.cache
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.csproj.CopyComplete
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Zelma\Desktop\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\MySql.Data.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.csproj.CopyComplete
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Zelma\Desktop\PARCIAL 1\VERIFICACION Y VALIDACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\MySql.Data.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.csproj.CopyComplete
+C:\Users\Zelma\Desktop\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\ConexionBd.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\MySql.Data.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\ConexionBd.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.csproj.CopyComplete
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\AccesoDatos.ContolEscolarApp\obj\Debug\AccesoDatos.ContolEscolarApp.pdb

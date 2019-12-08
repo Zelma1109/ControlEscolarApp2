@@ -1,0 +1,16 @@
+C:\Users\Zelma\Desktop\ControlEscolarApp\Extentions.ControlEscolarApp\bin\Debug\Extentions.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\Extentions.ControlEscolarApp\bin\Debug\Extentions.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\Extentions.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\Extentions.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\ControlEscolarApp\Extentions.ControlEscolarApp\obj\Debug\Extentions.ControlEscolarApp.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\ControlEscolarApp\Extentions.ControlEscolarApp\obj\Debug\Extentions.ControlEscolarApp.csproj.CopyComplete
+C:\Users\Zelma\Desktop\ControlEscolarApp\Extentions.ControlEscolarApp\obj\Debug\Extentions.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\ControlEscolarApp\Extentions.ControlEscolarApp\obj\Debug\Extentions.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\Extentions.ControlEscolarApp\bin\Debug\Extentions.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\Extentions.ControlEscolarApp\bin\Debug\Extentions.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\Extentions.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\Extentions.ControlEscolarApp\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\Extentions.ControlEscolarApp\obj\Debug\Extentions.ControlEscolarApp.csprojAssemblyReference.cache
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\Extentions.ControlEscolarApp\obj\Debug\Extentions.ControlEscolarApp.csproj.CopyComplete
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\Extentions.ControlEscolarApp\obj\Debug\Extentions.ControlEscolarApp.dll
+C:\Users\Zelma\Desktop\VALIDACION Y VERIFICACION\ControlEscolarApp\Extentions.ControlEscolarApp\obj\Debug\Extentions.ControlEscolarApp.pdb
